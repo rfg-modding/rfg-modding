@@ -1,1 +1,0 @@
-- Tools and documentation for modding the 2008 game Red Faction Guerrilla. Primarily focused on the 2018 remaster.
